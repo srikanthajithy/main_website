@@ -398,3 +398,25 @@ a {
 body {
   padding: 0px 20px;
 }
+
+.accordion{
+	margin-left: 33px;
+	margin-right: 35em;
+}
+
+.accordion-head{
+	cursor: pointer;
+    border-top: #e6e6e6 solid 1px;
+    background: aliceblue;
+    font-weight: bold;
+    font-family: calibri;
+    line-height: 22px;
+}
+.accordion-body{
+	 font-family: calibri;
+}
+.customer-care img{
+	float: right;
+    margin-top: -33em;
+    width: 550px;
+}
